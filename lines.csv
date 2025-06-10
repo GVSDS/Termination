@@ -1,0 +1,83 @@
+file,lines,words
+C:\Users\Lenovo\Desktop\Termination4\line.py,90,342
+C:\Users\Lenovo\Desktop\Termination4\listen.py,16,46
+C:\Users\Lenovo\Desktop\Termination4\script.py,35,74
+C:\Users\Lenovo\Desktop\Termination4\setup.py,47,110
+C:\Users\Lenovo\Desktop\Termination4\Termination4.py,294,860
+C:\Users\Lenovo\Desktop\Termination4\.inf\1.py,140,390
+C:\Users\Lenovo\Desktop\Termination4\.inf\bcombine.py,34,95
+C:\Users\Lenovo\Desktop\Termination4\.inf\bmain.c,194,710
+C:\Users\Lenovo\Desktop\Termination4\.inf\combine.py,38,123
+C:\Users\Lenovo\Desktop\Termination4\.inf\edwifi.py,34,138
+C:\Users\Lenovo\Desktop\Termination4\.inf\ico.py,44,123
+C:\Users\Lenovo\Desktop\Termination4\.inf\ico2.py,63,194
+C:\Users\Lenovo\Desktop\Termination4\.inf\service copy.c,334,1010
+C:\Users\Lenovo\Desktop\Termination4\.inf\service.c,334,1010
+C:\Users\Lenovo\Desktop\Termination4\.rm\screen.py,172,605
+C:\Users\Lenovo\Desktop\Termination4\Errors\AppleBoot.py,70,228
+C:\Users\Lenovo\Desktop\Termination4\Errors\BlueScreen.py,133,453
+C:\Users\Lenovo\Desktop\Termination4\Errors\ERROR_HTML.py,2778,7966
+C:\Users\Lenovo\Desktop\Termination4\Errors\FlowerScreen.py,69,202
+C:\Users\Lenovo\Desktop\Termination4\SigThief-master\sigthief.py,221,760
+C:\Users\Lenovo\Desktop\Termination4\TLhread\Thread_AntiVirusSoftware.py,86,277
+C:\Users\Lenovo\Desktop\Termination4\TLhread\Thread_AutoRun.py,52,192
+C:\Users\Lenovo\Desktop\Termination4\TLhread\Thread_InfectionWorker.py,60,185
+C:\Users\Lenovo\Desktop\Termination4\TLhread\Thread_LW3T.py,52,143
+C:\Users\Lenovo\Desktop\Termination4\TLhread\Thread_TWNT.py,203,502
+C:\Users\Lenovo\Desktop\Termination4\TLhread\Thread_TWNTWork.py,495,1350
+C:\Users\Lenovo\Desktop\Termination4\TLhread\__init__.py,6,24
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_AdministratorMode.py,170,436
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_AntiVirusSoftware.py,68,210
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_CDLL.py,393,948
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_ComputerInFo.py,307,855
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_EXEConfig.py,29,78
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_FIO.py,57,213
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_GodKeys.py,35,158
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_imports.py,138,468
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_Infection.py,174,423
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_KeMouse.py,274,864
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_Lock.py,97,277
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_Log.py,53,185
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_LW3T.py,211,660
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_PDir.py,84,228
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_Process.py,223,520
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_SandBoxVM.py,9,13
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_SomeThingError.py,8,16
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_this.py,56,386
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_Tools.py,558,1644
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_TWNetworkIO.py,84,180
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_Version.py,37,129
+C:\Users\Lenovo\Desktop\Termination4\TLib\__init__.py,21,84
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_Browser\get_web_info.py,116,372
+C:\Users\Lenovo\Desktop\Termination4\TLib\T_Browser\WebBrowserInfo.py,151,488
+C:\Users\Lenovo\Desktop\Termination4\TLUI\atest copy.py,167,449
+C:\Users\Lenovo\Desktop\Termination4\TLUI\atest.py,229,626
+C:\Users\Lenovo\Desktop\Termination4\TLUI\Blue.py,101,264
+C:\Users\Lenovo\Desktop\Termination4\TLUI\CountDown.py,73,208
+C:\Users\Lenovo\Desktop\Termination4\TLUI\FUNNY.py,244,808
+C:\Users\Lenovo\Desktop\Termination4\TLUI\handcode.py,111,1031
+C:\Users\Lenovo\Desktop\Termination4\TLUI\KONGBU.py,862,2814
+C:\Users\Lenovo\Desktop\Termination4\TLUI\OBlue.py,246,779
+C:\Users\Lenovo\Desktop\Termination4\TLUI\t2.py,387,816
+C:\Users\Lenovo\Desktop\Termination4\TLUI\t3.py,2,4
+C:\Users\Lenovo\Desktop\Termination4\TLUI\test copy.py,73,132
+C:\Users\Lenovo\Desktop\Termination4\TLUI\test.py,78,151
+C:\Users\Lenovo\Desktop\Termination4\TLUI\thetime.py,181,702
+C:\Users\Lenovo\Desktop\Termination4\TLUI\Tool.py,19,57
+C:\Users\Lenovo\Desktop\Termination4\TLUI\UI-AGSS.py,40,138
+C:\Users\Lenovo\Desktop\Termination4\TLUI\UI-END.py,158,1186
+C:\Users\Lenovo\Desktop\Termination4\TLUI\UI-ERRORS.py,658,2157
+C:\Users\Lenovo\Desktop\Termination4\TLUI\UI-KONGBU copy.py,145,608
+C:\Users\Lenovo\Desktop\Termination4\TLUI\UI-TEXT copy.py,118,379
+C:\Users\Lenovo\Desktop\Termination4\TLUI\UI-TEXT.py,206,651
+C:\Users\Lenovo\Desktop\Termination4\TLUI\UI-UPDATE.py,76,223
+C:\Users\Lenovo\Desktop\Termination4\TLUI\uiname.py,35,102
+C:\Users\Lenovo\Desktop\Termination4\TLUI\__init__.py,5,20
+C:\Users\Lenovo\Desktop\Termination4\tools\regwrite.c,54,197
+C:\Users\Lenovo\Desktop\Termination4\tools\tools copy.c,313,827
+C:\Users\Lenovo\Desktop\Termination4\tools\tools.c,335,898
+C:\Users\Lenovo\Desktop\Termination4\tools-ocr\ocrt.py,125,315
+C:\Users\Lenovo\Desktop\Termination4\tools-ocr\tempCodeRunnerFile.py,9,16
+C:\Users\Lenovo\Desktop\Termination4\tools-ocr\TemplateMatcher - Copy.c,243,865
+C:\Users\Lenovo\Desktop\Termination4\tools-ocr\TemplateMatcher.c,244,869
+C:\Users\Lenovo\Desktop\Termination4\tools-ocr\test.py,207,618
